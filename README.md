@@ -10,4 +10,4 @@
 4. Ctrl+F를 통해 #c.NotebookApp.notebook_dir 를 찾습니다.
 5. #c.NotebookApp.notebook_dir = ' '에서 ' ' 사이에 원하는 절대 경로를 설정해줍니다. (단, 경로설정시 \를 /로 변경해야 합니다.)
 6. 경로설정 후 앞에있는 주석(#)을 없애고 파일을 저장합니다.
-7. Jupyter Notebook을 재실행 한 후 기본 디렉토리를 확인합니다.
+7. Jupyter Notebook을 재실행 한 후 기본 디렉토리를 확인합니다. 
