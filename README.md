@@ -1,6 +1,6 @@
 # python_jupyter_notebook
 
-## 파이썬 주피터노트북 활용 연습  
+## 파이썬 주피터노트북 활용 연습   
 
 ### Jupyter Notebook 디렉토리 변경방법 
 #### 참고사이트 : https://jackerlab.com/jupyter-notebook-directory-change/
